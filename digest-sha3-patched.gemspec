@@ -1,7 +1,7 @@
 require File.expand_path('lib/digest/sha3/version')
 
 Gem::Specification.new do |s|
-  s.name = "digest-sha3-patched"
+  s.name = "digest-sha3"
   s.version = Digest::SHA3::Version::STRING
   s.summary = "The SHA-3 (Keccak) hash"
   s.email = "chris.s.metcalfe@gmail.com"
